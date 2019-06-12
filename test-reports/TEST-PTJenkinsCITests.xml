@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite errors="0" failures="1" hostname="Phams-MacBook-Pro.local" name="PTJenkinsCITests" tests="4" time="0.321" timestamp="2019-06-18 16:13:52 +0700"><testcase classname='PTJenkinsCITests' name='testExampl02' time='0.002' />
+<testcase classname='PTJenkinsCITests' name='testExample01' time='0.0' />
+<testcase classname='PTJenkinsCITests' name='testExample03' time='0.002'>
+<failure message='XCTAssertEqual failed: ("3") is not equal to ("10123213") - ' type='Failure'>/Users/pxtien/Desktop/PTJenkinsCI/PTJenkinsCITests/PTJenkinsCITests.swift:37</failure>
+</testcase>
+<testcase classname='PTJenkinsCITests' name='testPerformanceExample' time='0.315' />
+</testsuite>
