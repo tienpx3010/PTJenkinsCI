@@ -19,10 +19,22 @@ class PTJenkinsCITests: XCTestCase {
         // Put teardown code here. This method is called after the invocation of each test method in the class.
     }
 
-    func testExample() {
+    func testExample01() {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
-        XCTAssertEqual(4, 4)
+        XCTAssertEqual(1, 1)
+    }
+    
+    func testExampl02() {
+        // This is an example of a functional test case.
+        // Use XCTAssert and related functions to verify your tests produce the correct results.
+        XCTAssertEqual(2, 2)
+    }
+    
+    func testExample03() {
+        // This is an example of a functional test case.
+        // Use XCTAssert and related functions to verify your tests produce the correct results.
+        XCTAssertEqual(3, 3)
     }
 
     func testPerformanceExample() {
